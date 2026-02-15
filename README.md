@@ -91,9 +91,9 @@
 *Mastering the machine, from transistors to assembly.*
 
 ### Computer Architecture
-- [ ] **Digital Logic**: Gates, Flip-Flops, Adders, Multiplexers.
-- [ ] **ISA (Instruction Set Architecture)**: x86_64, ARMv8, RISC-V.
-- [ ] **CPU Internals**: Pipelining, Hazards, Branch Prediction, Out-of-Order Execution, Superscalar.
+- [x] **Digital Logic**: Gates, Flip-Flops, Adders, Multiplexers.
+- [x ] **ISA (Instruction Set Architecture)**: x86_64, ARMv8, RISC-V.
+- [x] **CPU Internals**: Pipelining, Hazards, Branch Prediction, Out-of-Order Execution, Superscalar.
 - [ ] **Memory Hierarchy**: L1/L2/L3 Caches, Cache Coherency (MESI), TLB, Virtual Memory translation.
 - [ ] **Hardware Interfaces**: Buses (PCIe, USB), DMA, Interrupts, I/O Mapping.
 
